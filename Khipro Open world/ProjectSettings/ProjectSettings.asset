@@ -582,7 +582,14 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: BCG_RCC
+    4: BCG_RCC
+    7: BCG_RCC
+    13: BCG_RCC
+    19: BCG_RCC
+    21: BCG_RCC
+    25: BCG_RCC
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 1
