@@ -14,7 +14,7 @@ Shader "EasyRoads3D/ER Road Transparency" {
     //    _Glossiness ("Road Smoothness", Range(0.0, 1.0)) = 0.5  
 	
 		[Header(Terrain Z Fighting Offset)]
-		_OffsetFactor ("Offset Factor", Range(0.0,-10.0)) = -1
+		_OffsetFactor ("Offset Factor", Range(0.0,-10.0)) = -2
         _OffsetUnit ("Offset Unit", Range(0.0,-10.0)) = -1
         
     }
