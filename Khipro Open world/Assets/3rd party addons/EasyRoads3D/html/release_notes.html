@@ -1,7 +1,7 @@
 <html>
 <head>
 		<title>EasyRoads3D v3 Manual</title>
-<link rel="stylesheet" type="text/css" href="../style.css" />    
+<link rel="stylesheet" type="text/css" href="style.css" />    
 </head>
 
 	<body>
@@ -24,7 +24,7 @@
 	  <tr>
 	    <td colspan="2" class="style1"><p class="style1">&nbsp;</p>
 	      <p class="header1" style="color:#000">Release Notes 
-	      v3.1.9f6<hr>
+	      v3.2.0<hr>
 	      <p class="style21">&nbsp;</p>
 	      <p class="header2">Important</p>
 	      <p class="style21">&nbsp;</p>
@@ -53,24 +53,24 @@
           <p class="style1">&nbsp;</p>
 
 <p class="style1"><strong>New:</strong></p>
-<p class="style1">- Select a road in the hierachy, hit the F key, the  Scene View cam will zoom to the road, and auto select the road in the road network</p>
-<p class="style1">- Beta 3.2 Beta 8 package in /Assets//EasyRoads2D/Beta Release/<br>
-</p>
-<!--
-<p class="style1"><strong>Changed:</strong></p>
-<p class="style1">- </p>
-<p class="style1">&nbsp;</p>-->
+<p class="style1">- Auto generated side objects based on rules, the terrain shape and the road shape</p>
+<p>- Terrain hole support for tunnels, this is in preview status. The results depend on the terrain specifications. The provided tunnel examples are tested on terrains with the default settings, 500x500 and 1000x1000, heightmap resolution 512</p>
+<p>- Submesh support for procedural side objects</p>
+<p>- Direct scale option for Procedural and Shape Type of side objects in the General Settings</p>
+<p>- Automatic start, middle, end section extraction of source prefabs for procedural side objects by using a naming convention for each section in the model</p>
+<p>- Stepped side object support for Procedural side objects by including stepped sections in the source prefab. The new demo package includes an example </p>
+<p>&nbsp;</p>
 <p class="style1"><strong>Improved:</strong></p>
-<p class="style1">- Mesh type of side objects, &quot;Average by Road Length&quot; just below &quot;Distance between Objects&quot;. By default this is switched on. &quot;Distance between Objects&quot; will be recalculated so the  last instance is positioned at the end of the track. When switching &quot;Average by Road Length&quot; off the real &quot;Distance between Objects&quot; value will be used</p>
-<p class="style1">- Road Type updates for scene instances respecting custom road specific settings like road resolution / Angle Threshold settings and also side object specific settings</p>
-<p class="style1">- Added to marker alignment options &quot;Align XZ&quot;, the markers between the two selected markers will be aligned in a straight line between these two markers preserving the original heights</p>
+<p class="style1">- Inside the Unity editor side objects are now spawned using the original prefab through PrefabUtility</p>
+<p>- Sideways X Position control for side objects per marker </p>
+<p>- Normals calculation for Propcedural side objects</p>
+<p>- Procedural and shape type of side object sections can now clamp between marker sections. This gives better control over the side object shape on straight sections and corners near markers. </p>
+<p>- Optional start and end caps support for shape type of side objects. </p>
+<p>- A single side object can be used for both the right and left side of the road</p>
+<p>- Road shape scale option per marker using the default Unity scale tool</p>
 <p class="style1">&nbsp;</p>
 <p class="style1"><strong>Fixed:</strong><br>
   <br>
-  - The terrain splatmap not being restored correctly through the API after swtiching back to Edit Mode when the road network object is created at runtime<br>
-  <br>
-  - Possible   side object related errors when roads based on a road type are created through the scripting API<br>
-<br>
   - Miscellaneous other small bugs and improvements</p>
 <p class="style1">&nbsp;</p>
           <p class="header2">To Do / Current limitations:          </p>
