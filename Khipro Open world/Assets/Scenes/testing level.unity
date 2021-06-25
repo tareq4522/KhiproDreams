@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -700,23 +700,6 @@ MonoBehaviour:
   perpDirRotated: {x: -0.771552, y: 0, z: -0.6361662}
   markerStartUVY: 0.8016243
   customPoints: []
---- !u!114 &560302994
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 561528938, guid: f56d46228aee4734f9114056c53bb57e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  roadScr: {fileID: 1765242628}
-  prefabScr: {fileID: 0}
-  markers: 04000000
-  startEnd: 0
-  prefab: {fileID: 0}
 --- !u!1 &596550787
 GameObject:
   m_ObjectHideFlags: 0
@@ -1861,7 +1844,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 1696793469}
   terrainSplatTextures: []
-  activeTerrain: {fileID: 1696793469}
+  activeTerrain: {fileID: 0}
   activeTerrainY: 0
   selectedTerrain: 0
   selectedRoadsOnly: 0
@@ -2000,8 +1983,8 @@ MonoBehaviour:
   importRoadPresetsAlert: 1
   importCrossingPresetsAlert: 0
   importSidewalkPresetsAlert: 0
-  updateSideObjectsAlert: 0
-  updateRoadPresetsAlert: 0
+  updateSideObjectsAlert: 1
+  updateRoadPresetsAlert: 1
   updateCrossingPresetsAlert: 0
   updateSidewalkPresetsAlert: 0
   waypointDistance: 10
@@ -2035,19 +2018,18 @@ MonoBehaviour:
   ODCODQOCQCScript: {fileID: 0}
   OQDOQQQDCOElement: -1
   OQCCQOODQO: -1
-  ODOCCCQOQO: {fileID: 1765242628}
-  OOOCQOOCOQ: {fileID: 1765242628}
-  OOCOOCDOQQ: 4
+  ODOCCCQOQO: {fileID: 0}
+  OOOCQOOCOQ: {fileID: 0}
+  OOCOOCDOQQ: -1
   selectedRoadSOMarker: -1
   selectedMarkerNode: -1
   selectedMarkerNodes: 
   selectedMarkerSONode: -1
   selectedMarkerSONodes: 
-  selectedObjects:
-  - {fileID: 560302994}
+  selectedObjects: []
   selectedExitRoad: -1
   newRoadFlag: 0
-  roadTypeUpdateFlag: 0
+  roadTypeUpdateFlag: 1
   roadScripts: []
   prefabScripts: []
   globalGridActive: 0
@@ -6696,7 +6678,7 @@ MonoBehaviour:
   sideObjectNames: []
   selectedSO: 0
   rebuildSos: 0
-  sosCleared: 1
+  sosCleared: 0
   isSideObject: 0
   startOffsetActiveMarker: -1
   endOffsetActiveMarker: -1
@@ -10404,7 +10386,7 @@ MonoBehaviour:
   sideObjectNames: []
   selectedSO: 0
   rebuildSos: 0
-  sosCleared: 1
+  sosCleared: 0
   isSideObject: 0
   startOffsetActiveMarker: -1
   endOffsetActiveMarker: -1
