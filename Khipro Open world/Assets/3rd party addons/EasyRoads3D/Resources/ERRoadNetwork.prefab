@@ -307,10 +307,38 @@ MonoBehaviour:
   targetMaterial: {fileID: 0}
   sourceTerrain: {fileID: 0}
   roadMaterials:
+  - blend tertiary old_dirt
+  - blue material
+  - bridge_01_1_laneMat
+  - Dirt Grass
+  - dirt gravel
+  - dirt material
+  - dirt swamp transition
+  - dirt swamp
+  - dirt transparency
+  - motorway 2 lanes
+  - old asphalt - sand blend
+  - old asphalt decal blend
+  - old asphalt single lane
+  - primary - sand blend
+  - primary road coast
+  - primary road
+  - race track material
+  - Race Track
+  - RA_Road_PSMat
   - road material
+  - secondary road - detail
+  - secondary road - double line
+  - secondary road decal blend
+  - secondary road
+  - tertiary road new
+  - tertiary road
+  - train rail
   connectionMaterials:
   - crossing material
+  - primary road crossing
   - road X sidewalks
+  - secondary road crossing
   selectedMaterial: 0
   selectedConnectionMaterial: 0
   materials: []
@@ -319,7 +347,7 @@ MonoBehaviour:
   sidewalkOptions: 0
   markerOptions: 0
   showRoadSideObjects: 0
-  markerSOOptions: 1
+  markerSOOptions: 0
   roadTerrainOptions: 0
   camFlyOver: 0
   selectedRoadMaterial: 0
@@ -366,22 +394,20 @@ MonoBehaviour:
   osmTerrainBottomLon: 0
   osmTerrainLeftLat: 0
   osmTerrainRightLat: 0
-  terrainMinIndent: 2.9296875
+  terrainMinIndent: 0
   minIndent: 2.9296875
   minSurrounding: 5
   maxIndentSurrounding: 50
   terrainY: 0
-  terrainDetailSplatX: 0.48828125
-  terrainDetailSplatY: 0.48828125
-  detailOffsetVec: {x: 0.48828125, y: 0, z: 0.48828125}
+  terrainDetailSplatX: 50
+  terrainDetailSplatY: 50
+  detailOffsetVec: {x: 50, y: 0, z: 50}
   raise: 0.02
   baseVector: {x: 0, y: 0, z: 0}
   mirrorCrossings: 1
   terrainNames:
   - All Terrains
-  - Terrain
   terrainObjects:
-  - {fileID: 0}
   - {fileID: 0}
   terrainSplatTextures:
   - Splat 1 - Grass ER ER
@@ -520,8 +546,8 @@ MonoBehaviour:
   importRoadPresetsAlert: 1
   importCrossingPresetsAlert: 0
   importSidewalkPresetsAlert: 0
-  updateSideObjectsAlert: 0
-  updateRoadPresetsAlert: 0
+  updateSideObjectsAlert: 1
+  updateRoadPresetsAlert: 1
   updateCrossingPresetsAlert: 0
   updateSidewalkPresetsAlert: 0
   waypointDistance: 10
