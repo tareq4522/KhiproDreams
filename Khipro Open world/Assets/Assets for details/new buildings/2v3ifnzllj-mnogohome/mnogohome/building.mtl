@@ -1,0 +1,699 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__395 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__395 done 
+#
+# Multi/Sub Material__240 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__240 done 
+#
+# Multi/Sub Material__185 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__185 done 
+#
+# Multi/Sub Material__306 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__306 done 
+#
+# Multi/Sub Material__207 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__207 done 
+#
+# Multi/Sub Material__273 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__273 done 
+#
+# Multi/Sub Material__295 (2) to come 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__295 done 
+#
+# Multi/Sub Material__284 (2) to come 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__284 done 
+#
+# Multi/Sub Material__218 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__218 done 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__196 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__196 done 
+#
+# Multi/Sub Material__229 (2) to come 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__229 done 
+#
+# Multi/Sub Material__163 (2) to come 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__163 done 
+#
+# Multi/Sub Material__406 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__406 done 
+#
+# Multi/Sub Material__130 (2) to come 
+#
+newmtl krisha
+Ka  0.6 0.5 0.5
+Kd  0.6 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__130 done 
+#
+# Multi/Sub Material__251 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__251 done 
+#
+# Multi/Sub Material__101 (3) to come 
+#
+newmtl stena3
+Ka  0.0 0.0 0.0
+Kd  0.8 0.7 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl lesenka
+Ka  0.6 0.4 0.4
+Kd  0.6 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl NNNIIIZZZ
+Ka  0.0 0.0 0.0
+Kd  0.4 0.3 0.2
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__101 done 
+#
+# Multi/Sub Material__317 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__317 done 
+#
+# Multi/Sub Material__262 (2) to come 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__262 done 
+#
+# Multi/Sub Material__112 (5) to come 
+#
+newmtl balk
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl steklo2
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.6 0.6 0.6
+d  0.4
+Ns  10.0
+illum 2
+#
+newmtl balkon
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl rama
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl balk2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__112 done 
+#
+newmtl balkon
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__35 (5) to come 
+#
+newmtl balk
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl steklo2
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.6 0.6 0.6
+d  0.4
+Ns  10.0
+illum 2
+#
+newmtl balkon
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl rama
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl balk2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+# Multi/Sub Material__339 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__339 done 
+#
+# Multi/Sub Material__141 (2) to come 
+#
+newmtl krisha
+Ka  0.6 0.5 0.5
+Kd  0.6 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__141 done 
+#
+# Multi/Sub Material__152 (2) to come 
+#
+newmtl krisha
+Ka  0.6 0.5 0.5
+Kd  0.6 0.5 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__152 done 
+#
+# Multi/Sub Material__46 (3) to come 
+#
+newmtl stena3
+Ka  0.0 0.0 0.0
+Kd  0.8 0.7 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl lesenka
+Ka  0.6 0.4 0.4
+Kd  0.6 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl NNNIIIZZZ
+Ka  0.0 0.0 0.0
+Kd  0.4 0.3 0.2
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__46 done 
+#
+# Multi/Sub Material__361 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__361 done 
+#
+# Multi/Sub Material__350 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__350 done 
+#
+# Multi/Sub Material__372 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__372 done 
+#
+# Multi/Sub Material__417 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__417 done 
+#
+# Multi/Sub Material__428 (2) to come 
+#
+newmtl stena1
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__428 done 
+#
+# Multi/Sub Material__383 (2) to come 
+#
+newmtl Default
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 09_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.1 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__383 done 
+#
+newmtl 07_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+# EOF
