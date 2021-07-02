@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 21593f13e6094e74e88c9a509d07c3b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box033
+    100002: Box034
+    100004: Box035
+    100006: Box036
+    100008: Box037
+    100010: Factory A010
+    100012: Factory B002
+    100014: Factory C
+    100016: Factory D002
+    100018: Factory e
+    100020: Factory F003
+    100022: Factory G
+    100024: Factory H005
+    100026: Factory I
+    100028: factory_dns
+    100030: factory_nmb
+    100032: Fence O
+    100034: Fence012
+    100036: Fence021
+    100038: Fence042
+    100040: Fence104
+    100042: Fence127
+    100044: Fence136
+    100046: Fence138
+    100048: Fence142
+    100050: Fence147
+    100052: Fence148
+    100054: Fence149
+    100056: Fence153
+    100058: Fence157
+    100060: Fence165
+    100062: Fence177
+    100064: gate
+    100066: gate001
+    100068: Inductrial E001
+    100070: Industrail Q005
+    100072: Industrial AA001
+    100074: Industrial B
+    100076: Industrial D002
+    100078: Industrial F
+    100080: Industrial G001
+    100082: Industrial Green005
+    100084: Industrial Green006
+    100086: Industrial H006
+    100088: Industrial J
+    100090: Industrial K
+    100092: Industrial L008
+    100094: Industrial M003
+    100096: Industrial N003
+    100098: Industrial O
+    100100: Industrial P010
+    100102: Industrial R005
+    100104: Industrial Red007
+    100106: Industrial S
+    100108: Industrial T003
+    100110: Industrial U
+    100112: Industrial uuf002
+    100114: Industrial V007
+    100116: Industrial W004
+    100118: Industrial White008
+    100120: Industrial X003
+    100122: Industrial Y009
+    100124: Industrial Z
+    100126: Industrial ZXZ007
+    100128: Industrial ZZ
+    100130: Industrial_A
+    100132: Industrial_block_A001
+    100134: industrial_chemney
+    100136: Industrial_Cone001
+    100138: Industrial_Dumpstar002
+    100140: Industrial_electric_box001
+    100142: Industrial_garbage004
+    100144: Industrial_light017
+    100146: Industrial_meter001
+    100148: //RootNode
+    100150: Industrial_props_Billboar_S001
+    100152: Industrial_Road_block
+    100154: Industrial_Street_light046
+    100156: Indutrsial_lock
+    100158: Props_buldozer003
+    100160: Props_cons_G001
+    100162: Props_construc_C
+    100164: Props_constructiob_b
+    100166: Props_construction003
+    100168: Props_construction005
+    100170: Props_container_crate
+    100172: Props_cylinder017
+    100174: Props_dust012
+    100176: props_gray_train005
+    100178: props_red_train007
+    100180: Props_scafold002
+    100182: Props_scafold_B005
+    100184: Railline004
+    100186: Sedan001
+    100188: semi sedan001
+    100190: Van005
+    100192: Wagon004
+    400000: Box033
+    400002: Box034
+    400004: Box035
+    400006: Box036
+    400008: Box037
+    400010: Factory A010
+    400012: Factory B002
+    400014: Factory C
+    400016: Factory D002
+    400018: Factory e
+    400020: Factory F003
+    400022: Factory G
+    400024: Factory H005
+    400026: Factory I
+    400028: factory_dns
+    400030: factory_nmb
+    400032: Fence O
+    400034: Fence012
+    400036: Fence021
+    400038: Fence042
+    400040: Fence104
+    400042: Fence127
+    400044: Fence136
+    400046: Fence138
+    400048: Fence142
+    400050: Fence147
+    400052: Fence148
+    400054: Fence149
+    400056: Fence153
+    400058: Fence157
+    400060: Fence165
+    400062: Fence177
+    400064: gate
+    400066: gate001
+    400068: Inductrial E001
+    400070: Industrail Q005
+    400072: Industrial AA001
+    400074: Industrial B
+    400076: Industrial D002
+    400078: Industrial F
+    400080: Industrial G001
+    400082: Industrial Green005
+    400084: Industrial Green006
+    400086: Industrial H006
+    400088: Industrial J
+    400090: Industrial K
+    400092: Industrial L008
+    400094: Industrial M003
+    400096: Industrial N003
+    400098: Industrial O
+    400100: Industrial P010
+    400102: Industrial R005
+    400104: Industrial Red007
+    400106: Industrial S
+    400108: Industrial T003
+    400110: Industrial U
+    400112: Industrial uuf002
+    400114: Industrial V007
+    400116: Industrial W004
+    400118: Industrial White008
+    400120: Industrial X003
+    400122: Industrial Y009
+    400124: Industrial Z
+    400126: Industrial ZXZ007
+    400128: Industrial ZZ
+    400130: Industrial_A
+    400132: Industrial_block_A001
+    400134: industrial_chemney
+    400136: Industrial_Cone001
+    400138: Industrial_Dumpstar002
+    400140: Industrial_electric_box001
+    400142: Industrial_garbage004
+    400144: Industrial_light017
+    400146: Industrial_meter001
+    400148: //RootNode
+    400150: Industrial_props_Billboar_S001
+    400152: Industrial_Road_block
+    400154: Industrial_Street_light046
+    400156: Indutrsial_lock
+    400158: Props_buldozer003
+    400160: Props_cons_G001
+    400162: Props_construc_C
+    400164: Props_constructiob_b
+    400166: Props_construction003
+    400168: Props_construction005
+    400170: Props_container_crate
+    400172: Props_cylinder017
+    400174: Props_dust012
+    400176: props_gray_train005
+    400178: props_red_train007
+    400180: Props_scafold002
+    400182: Props_scafold_B005
+    400184: Railline004
+    400186: Sedan001
+    400188: semi sedan001
+    400190: Van005
+    400192: Wagon004
+    2100000: 'Material #374'
+    2100002: 'Material #373'
+    2100004: 'Material #375'
+    2300000: Box033
+    2300002: Box034
+    2300004: Box035
+    2300006: Box036
+    2300008: Box037
+    2300010: Factory A010
+    2300012: Factory B002
+    2300014: Factory C
+    2300016: Factory D002
+    2300018: Factory e
+    2300020: Factory F003
+    2300022: Factory G
+    2300024: Factory H005
+    2300026: Factory I
+    2300028: factory_dns
+    2300030: factory_nmb
+    2300032: Fence O
+    2300034: Fence012
+    2300036: Fence021
+    2300038: Fence042
+    2300040: Fence104
+    2300042: Fence127
+    2300044: Fence136
+    2300046: Fence138
+    2300048: Fence142
+    2300050: Fence147
+    2300052: Fence148
+    2300054: Fence149
+    2300056: Fence153
+    2300058: Fence157
+    2300060: Fence165
+    2300062: Fence177
+    2300064: gate
+    2300066: gate001
+    2300068: Inductrial E001
+    2300070: Industrail Q005
+    2300072: Industrial AA001
+    2300074: Industrial B
+    2300076: Industrial D002
+    2300078: Industrial F
+    2300080: Industrial G001
+    2300082: Industrial Green005
+    2300084: Industrial Green006
+    2300086: Industrial H006
+    2300088: Industrial J
+    2300090: Industrial K
+    2300092: Industrial L008
+    2300094: Industrial M003
+    2300096: Industrial N003
+    2300098: Industrial O
+    2300100: Industrial P010
+    2300102: Industrial R005
+    2300104: Industrial Red007
+    2300106: Industrial S
+    2300108: Industrial T003
+    2300110: Industrial U
+    2300112: Industrial uuf002
+    2300114: Industrial V007
+    2300116: Industrial W004
+    2300118: Industrial White008
+    2300120: Industrial X003
+    2300122: Industrial Y009
+    2300124: Industrial Z
+    2300126: Industrial ZXZ007
+    2300128: Industrial ZZ
+    2300130: Industrial_A
+    2300132: Industrial_block_A001
+    2300134: industrial_chemney
+    2300136: Industrial_Cone001
+    2300138: Industrial_Dumpstar002
+    2300140: Industrial_electric_box001
+    2300142: Industrial_garbage004
+    2300144: Industrial_light017
+    2300146: Industrial_meter001
+    2300148: Industrial_props_Billboar_S001
+    2300150: Industrial_Road_block
+    2300152: Industrial_Street_light046
+    2300154: Indutrsial_lock
+    2300156: Props_buldozer003
+    2300158: Props_cons_G001
+    2300160: Props_construc_C
+    2300162: Props_constructiob_b
+    2300164: Props_construction003
+    2300166: Props_construction005
+    2300168: Props_container_crate
+    2300170: Props_cylinder017
+    2300172: Props_dust012
+    2300174: props_gray_train005
+    2300176: props_red_train007
+    2300178: Props_scafold002
+    2300180: Props_scafold_B005
+    2300182: Railline004
+    2300184: Sedan001
+    2300186: semi sedan001
+    2300188: Van005
+    2300190: Wagon004
+    3300000: Box033
+    3300002: Box034
+    3300004: Box035
+    3300006: Box036
+    3300008: Box037
+    3300010: Factory A010
+    3300012: Factory B002
+    3300014: Factory C
+    3300016: Factory D002
+    3300018: Factory e
+    3300020: Factory F003
+    3300022: Factory G
+    3300024: Factory H005
+    3300026: Factory I
+    3300028: factory_dns
+    3300030: factory_nmb
+    3300032: Fence O
+    3300034: Fence012
+    3300036: Fence021
+    3300038: Fence042
+    3300040: Fence104
+    3300042: Fence127
+    3300044: Fence136
+    3300046: Fence138
+    3300048: Fence142
+    3300050: Fence147
+    3300052: Fence148
+    3300054: Fence149
+    3300056: Fence153
+    3300058: Fence157
+    3300060: Fence165
+    3300062: Fence177
+    3300064: gate
+    3300066: gate001
+    3300068: Inductrial E001
+    3300070: Industrail Q005
+    3300072: Industrial AA001
+    3300074: Industrial B
+    3300076: Industrial D002
+    3300078: Industrial F
+    3300080: Industrial G001
+    3300082: Industrial Green005
+    3300084: Industrial Green006
+    3300086: Industrial H006
+    3300088: Industrial J
+    3300090: Industrial K
+    3300092: Industrial L008
+    3300094: Industrial M003
+    3300096: Industrial N003
+    3300098: Industrial O
+    3300100: Industrial P010
+    3300102: Industrial R005
+    3300104: Industrial Red007
+    3300106: Industrial S
+    3300108: Industrial T003
+    3300110: Industrial U
+    3300112: Industrial uuf002
+    3300114: Industrial V007
+    3300116: Industrial W004
+    3300118: Industrial White008
+    3300120: Industrial X003
+    3300122: Industrial Y009
+    3300124: Industrial Z
+    3300126: Industrial ZXZ007
+    3300128: Industrial ZZ
+    3300130: Industrial_A
+    3300132: Industrial_block_A001
+    3300134: industrial_chemney
+    3300136: Industrial_Cone001
+    3300138: Industrial_Dumpstar002
+    3300140: Industrial_electric_box001
+    3300142: Industrial_garbage004
+    3300144: Industrial_light017
+    3300146: Industrial_meter001
+    3300148: Industrial_props_Billboar_S001
+    3300150: Industrial_Road_block
+    3300152: Industrial_Street_light046
+    3300154: Indutrsial_lock
+    3300156: Props_buldozer003
+    3300158: Props_cons_G001
+    3300160: Props_construc_C
+    3300162: Props_constructiob_b
+    3300164: Props_construction003
+    3300166: Props_construction005
+    3300168: Props_container_crate
+    3300170: Props_cylinder017
+    3300172: Props_dust012
+    3300174: props_gray_train005
+    3300176: props_red_train007
+    3300178: Props_scafold002
+    3300180: Props_scafold_B005
+    3300182: Railline004
+    3300184: Sedan001
+    3300186: semi sedan001
+    3300188: Van005
+    3300190: Wagon004
+    4300000: Industrial Z
+    4300002: Fence012
+    4300004: Industrial ZZ
+    4300006: Industrial U
+    4300008: Fence021
+    4300010: Industrial S
+    4300012: Fence042
+    4300014: Industrial B
+    4300016: Industrial K
+    4300018: Industrial F
+    4300020: Industrial J
+    4300022: Industrial O
+    4300024: Fence O
+    4300026: Industrial_A
+    4300028: Factory C
+    4300030: Factory G
+    4300032: Factory e
+    4300034: Factory I
+    4300036: Industrial AA001
+    4300038: Fence104
+    4300040: Factory F003
+    4300042: Industrial G001
+    4300044: Factory D002
+    4300046: Factory B002
+    4300048: Industrial N003
+    4300050: Fence127
+    4300052: Industrial M003
+    4300054: Fence136
+    4300056: Fence138
+    4300058: Industrial X003
+    4300060: Industrial L008
+    4300062: Fence142
+    4300064: Fence147
+    4300066: Industrial P010
+    4300068: Industrail Q005
+    4300070: Fence148
+    4300072: Industrial H006
+    4300074: Industrial T003
+    4300076: Fence149
+    4300078: Industrial Y009
+    4300080: Fence153
+    4300082: Industrial D002
+    4300084: Industrial V007
+    4300086: Inductrial E001
+    4300088: Industrial ZXZ007
+    4300090: Fence157
+    4300092: Industrial R005
+    4300094: Fence165
+    4300096: industrial_chemney
+    4300098: Factory A010
+    4300100: Factory H005
+    4300102: Fence177
+    4300104: Industrial W004
+    4300106: Props_container_crate
+    4300108: Props_construc_C
+    4300110: Props_constructiob_b
+    4300112: Props_cons_G001
+    4300114: props_red_train007
+    4300116: props_gray_train005
+    4300118: Industrial Red007
+    4300120: Industrial Green005
+    4300122: Industrial White008
+    4300124: Props_construction003
+    4300126: Props_scafold002
+    4300128: Props_construction005
+    4300130: Props_buldozer003
+    4300132: Props_cylinder017
+    4300134: Props_dust012
+    4300136: Props_scafold_B005
+    4300138: gate
+    4300140: Railline004
+    4300142: gate001
+    4300144: Box033
+    4300146: Box034
+    4300148: Box035
+    4300150: Box036
+    4300152: Box037
+    4300154: Van005
+    4300156: Wagon004
+    4300158: Sedan001
+    4300160: semi sedan001
+    4300162: Industrial_Road_block
+    4300164: Indutrsial_lock
+    4300166: Industrial_block_A001
+    4300168: Industrial_electric_box001
+    4300170: Industrial_meter001
+    4300172: Industrial_light017
+    4300174: Industrial_garbage004
+    4300176: Industrial_Dumpstar002
+    4300178: Industrial_Cone001
+    4300180: Industrial_props_Billboar_S001
+    4300182: factory_dns
+    4300184: factory_nmb
+    4300186: Industrial uuf002
+    4300188: Industrial_Street_light046
+    4300190: Industrial Green006
+    6400000: Box033
+    6400002: Box034
+    6400004: Box035
+    6400006: Box036
+    6400008: Box037
+    6400010: Factory A010
+    6400012: Factory B002
+    6400014: Factory C
+    6400016: Factory D002
+    6400018: Factory e
+    6400020: Factory F003
+    6400022: Factory G
+    6400024: Factory H005
+    6400026: Factory I
+    6400028: factory_dns
+    6400030: factory_nmb
+    6400032: Fence O
+    6400034: Fence012
+    6400036: Fence021
+    6400038: Fence042
+    6400040: Fence104
+    6400042: Fence127
+    6400044: Fence136
+    6400046: Fence138
+    6400048: Fence142
+    6400050: Fence147
+    6400052: Fence148
+    6400054: Fence149
+    6400056: Fence153
+    6400058: Fence157
+    6400060: Fence165
+    6400062: Fence177
+    6400064: gate
+    6400066: gate001
+    6400068: Inductrial E001
+    6400070: Industrail Q005
+    6400072: Industrial AA001
+    6400074: Industrial B
+    6400076: Industrial D002
+    6400078: Industrial F
+    6400080: Industrial G001
+    6400082: Industrial Green005
+    6400084: Industrial Green006
+    6400086: Industrial H006
+    6400088: Industrial J
+    6400090: Industrial K
+    6400092: Industrial L008
+    6400094: Industrial M003
+    6400096: Industrial N003
+    6400098: Industrial O
+    6400100: Industrial P010
+    6400102: Industrial R005
+    6400104: Industrial Red007
+    6400106: Industrial S
+    6400108: Industrial T003
+    6400110: Industrial U
+    6400112: Industrial uuf002
+    6400114: Industrial V007
+    6400116: Industrial W004
+    6400118: Industrial White008
+    6400120: Industrial X003
+    6400122: Industrial Y009
+    6400124: Industrial Z
+    6400126: Industrial ZXZ007
+    6400128: Industrial ZZ
+    6400130: Industrial_A
+    6400132: Industrial_block_A001
+    6400134: industrial_chemney
+    6400136: Industrial_Cone001
+    6400138: Industrial_Dumpstar002
+    6400140: Industrial_electric_box001
+    6400142: Industrial_garbage004
+    6400144: Industrial_light017
+    6400146: Industrial_meter001
+    6400148: Industrial_props_Billboar_S001
+    6400150: Industrial_Road_block
+    6400152: Industrial_Street_light046
+    6400154: Indutrsial_lock
+    6400156: Props_buldozer003
+    6400158: Props_cons_G001
+    6400160: Props_construc_C
+    6400162: Props_constructiob_b
+    6400164: Props_construction003
+    6400166: Props_construction005
+    6400168: Props_container_crate
+    6400170: Props_cylinder017
+    6400172: Props_dust012
+    6400174: props_gray_train005
+    6400176: props_red_train007
+    6400178: Props_scafold002
+    6400180: Props_scafold_B005
+    6400182: Railline004
+    6400184: Sedan001
+    6400186: semi sedan001
+    6400188: Van005
+    6400190: Wagon004
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #373'
+    second: {fileID: 2100000, guid: 4f6cc83680d49764d83e5e47b2ff4fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #374'
+    second: {fileID: 2100000, guid: c41469fb01f5cb64aa3b0e223542c7bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #375'
+    second: {fileID: 2100000, guid: 8f9fc371cccaf70478bbccab213f19d0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 58
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
